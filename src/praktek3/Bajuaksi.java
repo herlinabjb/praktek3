@@ -11,5 +11,13 @@ public class Bajuaksi {
        
        s.cetakInfo();
        
+       System.out.print("Merknya \t: ");
+       System.out.println(s.getMerk());
+       System.out.print("Ukurannya \t: ");
+       System.out.println(s.getUkuran());
+       System.out.print("Warnanya \t: ");
+       System.out.println(s.getWarna());
+       System.out.print("Modelnya \t: ");
+       System.out.println(s.getModel());
     }
 }
