@@ -14,5 +14,37 @@ public class Baju {
         "model \t: "+model);
         
     }
+
+    public String getMerk() {
+        return merk;
+    }
+
+    public void setMerk(String merk) {
+        this.merk = merk;
+    }
+
+    public String getUkuran() {
+        return ukuran;
+    }
+
+    public void setUkuran(String ukuran) {
+        this.ukuran = ukuran;
+    }
+
+    public String getWarna() {
+        return warna;
+    }
+
+    public void setWarna(String warna) {
+        this.warna = warna;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
                 
 }     
