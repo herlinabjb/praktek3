@@ -6,4 +6,14 @@ public class Bajumuslim extends Baju {
     void throttle(){
         System.out.println("ASIKJOSSSSS");
     }
+
+    public String getJeniskain() {
+        return jeniskain;
+    }
+
+    public void setJeniskain(String jeniskain) {
+        this.jeniskain = jeniskain;
+    }
+    
+    
 }
