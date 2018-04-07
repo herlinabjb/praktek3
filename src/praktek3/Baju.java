@@ -2,10 +2,10 @@
 package praktek3;
 
 public class Baju {
-    String merk;
-    String ukuran;
-    String warna;
-    String model;
+    private String merk;
+    private String ukuran;
+    private String warna;
+    private String model;
     
     void cetakInfo(){
         System.out.println("merk  \t:  "+merk+"\n"+
